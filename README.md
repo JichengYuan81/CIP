@@ -1,2 +1,2 @@
 # CIP
-The source code of IRL will be released when it is accepted.
+The source code of CIP will be released when it is accepted.
